@@ -1,0 +1,3 @@
+{"timestamp": "2026-08-08", "event": "User Login", "user_id": 113}
+{"timestamp": "2026-08-08", "event": "Page View", "user_id": 113, "page": "/services"}
+{"timestamp": "2026-08-08", "event": "Purchase", "user_id": 113, "amount": "$499"}

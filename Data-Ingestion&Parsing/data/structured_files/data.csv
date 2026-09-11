@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Brand,Price,Stock,Rating,Discount (%),Supplier
+101,Wireless Mouse,Accessories,LogiTech,799,150,4.5,10,TechWorld
+102,Mechanical Keyboard,Accessories,KeyChron,6499,80,4.8,15,KeyStore
+103,Gaming Monitor,Monitors,Samsung,18999,35,4.7,8,DisplayHub
+104,USB-C Hub,Accessories,Anker,2499,120,4.4,20,Anker India
+105,Laptop Stand,Furniture,AmazonBasics,1999,60,4.3,5,OfficePro
+106,Noise Cancelling Headphones,Audio,Sony,12999,25,4.8,12,Sony India
+107,External SSD,Storage,SanDisk,7999,45,4.6,18,StorageMart
+108,Webcam,Cameras,LogiTech,3999,70,4.2,10,CameraZone
+109,Bluetooth Speaker,Audio,JBL,4999,90,4.5,25,AudioPlus
+110,Smart Watch,Wearables,Apple,29999,30,4.9,7,Apple India

@@ -1,0 +1,61 @@
+{
+  "company": "Apple Inc",
+  "Employees": [
+    {
+      "Employee_id": 1,
+      "Employee_name": "Jaywardhan Pagar",
+      "Employee_role": "Data Scientist",
+      "Salary": "$15,000/month",
+      "Skills": [
+        "Git",
+        "Machine Learning",
+        "RAG"
+      ],
+      "Projects": [
+        {
+          "Name": "RAG Based AI Teaching Assistant",
+          "Status": "Completed"
+        },
+        {
+          "Name": "RAG Based Document Managament System",
+          "Status": "In Progress"
+        }
+      ]
+    },
+    {
+      "Employee_id": 2,
+      "Employee_name": "Anurag Mhaske",
+      "Employee_role": "Software Developer",
+      "Salary": "$10,000/month",
+      "Skills": [
+        "Swift",
+        "Git",
+        "Kivy"
+      ],
+      "Projects": [
+        {
+          "Name": "App Store",
+          "Status": "Completed"
+        },
+        {
+          "Name": "Siri AI",
+          "Status": "In Progress"
+        }
+      ]
+    }
+  ],
+  "Departments": [
+    {
+      "Department": "Product Design",
+      "Head": "Steve Wozniak",
+      "Budget": "$7500000",
+      "team_size": 25
+    },
+    {
+      "Department": "Software Testing",
+      "Head": "Mike Ermentraut",
+      "Budget": "$5500000",
+      "team_size": 10
+    }
+  ]
+}

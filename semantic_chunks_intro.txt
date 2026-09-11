@@ -1,0 +1,7 @@
+LangChain can be used to connect language models with external tools and data sources.
+A retriever in LangChain helps find relevant documents before generating an answer.
+LangChain supports building RAG applications using vector databases and embeddings.
+Prompt templates make it easier to maintain consistent instructions across different LLM calls.
+Steve Jobs and Steve Wozniak started Apple in the year 1976
+Steve Jobs was the CEO of apple from 1997-2011
+Apple is the greatest company to ever exist on the planet
